@@ -1,0 +1,2 @@
+# SZU_FREE_HOT_WATER_CARD
+一个关于深圳大学无限热水卡的程序
