@@ -10,11 +10,5 @@
 * [杜邦线若干](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-18192725132.51.4e1070f7uvIIqy&id=524695046876&rn=438a65fd5e11461cd5baa0c7e35e6f7b&abbucket=4&sku_properties=122216547:20213)(建议到一些个实验室借)  
   
 ## 接线   
-## 此外  
-我使用的是mingw8.1，posix的Threads，如果不是这个的话会很多坑的，真是日了狗了  
-你可以使用gcc -v -E -x c++ -来看你的MinGW的全部安装目录  
-可能用到的链接，非常感谢大佬的博客  
-[MinGW.md](https://github.com/Microsoft/vscode-cpptools/blob/8979a6e6b348efd23b97037151d8968915f9fea0/Documentation/LanguageServer/MinGW.md)  
-[G++常用命令1](https://blog.csdn.net/lcuwb/article/details/80626870)  
-[G++常见命令2](https://blog.csdn.net/qq_24283329/article/details/72595386) 
+
 
