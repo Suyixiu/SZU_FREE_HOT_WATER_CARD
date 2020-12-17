@@ -41,7 +41,7 @@ void setup()
 void loop()
 {
 	delay(1000);
-	rfid.findCard(PICC_REQIDL, str);				//找卡
+	rfid.MFRC522Request(PICC_REQIDL, str);				//找卡
 	if (rfid.anticoll(str) == MI_OK)				//防冲突检测,读取卡序列号
 	{
 		Serial.print("The card's number is  : ");
@@ -57,7 +57,7 @@ void loop()
 	memcpy(writeDate, str, 4);						//将序列号存储到writeData中
 	delay(3000);
 
-	rfid.findCard(PICC_REQIDL, str);
+	rfid.MFRC522Request(PICC_REQIDL, str);
 	if (rfid.anticoll(str) == MI_OK)				//防冲突检测,读取卡序列号
 	{
 		Serial.print("The card's number is  : ");
