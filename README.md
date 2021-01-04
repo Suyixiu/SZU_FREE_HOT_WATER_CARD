@@ -10,7 +10,7 @@
 * [Arduino UNO](https://detail.tmall.com/item.htm?spm=a230r.1.14.188.4a8b6558Hnbkz0&id=538662184250&ns=1&abbucket=3)(建议到一些个实验室借)  
 * [RFID-RC522模块](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-18192725132.20.590870f78XwZd1&id=44161034569&rn=9beb21db6e84df614ce05818fbe8710d&abbucket=4)(建议到一些个实验室借)
 * [杜邦线若干](https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-18192725132.51.4e1070f7uvIIqy&id=524695046876&rn=438a65fd5e11461cd5baa0c7e35e6f7b&abbucket=4&sku_properties=122216547:20213)(建议到一些个实验室借)  
-* [一张可写0扇区的RFID白卡](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.59da2e8dmepvZQ&id=578506826776&_u=71nmr2290eb3)(买的这家的亲测可用，注意一定要是能读写的CUID卡)  
+* [一张可写0扇区的RFID白卡](https://detail.tmall.com/item.htm?id=542445132258&price=6.5-200&sourceType=item&sourceType=item&detailSharePosition=interactBar&suid=e4564af0-2656-4708-b28d-0f93fec4bfbc&shareUniqueId=6783197763&ut_sk=1.WJHvHlqr0ccDANxYpGpnLJO1_21646297_1609566728316.TaoPassword-QQ.1&un=135a6b66df908145f3ba5a7177d3a823&share_crt_v=1&spm=a2159r.13376460.0.0&sp_tk=SFlqOGNzWms5aTA=&cpp=1&shareurl=true&short_name=h.4hhcoai&bxsign=scdQin4SoUlMsRxZhv_j25M_acTAj_vgTp9Dw-4x5960xDmbGAsfcTMoSfbOhlwexYBTHaAAlNOy_m2hcQNbk-XO1-Nmgp8uXYZPj7Jcwh4POA&app=chrome&skuId=4478350916607)(买的这家的亲测可用，注意一定要是能读写的CUID卡)  
   
 ## 接线   
 |Arduino|RC522模块|
